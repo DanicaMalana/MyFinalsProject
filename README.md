@@ -1,5 +1,3 @@
-# MyFinalsProject
-
 using System;
 using System.Collections.Generic;
 
@@ -11,7 +9,7 @@ namespace program
         
         static void Main(string[] args)
         {
-			// DANICA M. MALANA
+	     // DANICA M. MALANA
             // THE EVENTS INFORMATION SYSTEM
 			Console.WriteLine("\n\nMABUHAY KA BIÑANENSE!");
 
